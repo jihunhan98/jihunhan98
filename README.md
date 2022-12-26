@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 개발자 한지훈입니다.👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%jihunhan98)](https://hits.seeyoufarm.com)
 <!--
 **jihunhan98/jihunhan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jihunhan98&show_icons=true&hide_border=true)](https://github.com/jihunhan98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunhan98&layout=compact)](https://github.com/jihunhan98)
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
